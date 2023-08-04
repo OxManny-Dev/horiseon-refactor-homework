@@ -1,3 +1,10 @@
+/*
+Keeping it DRY
+
+DONT REPEAT YOURSELF
+
+*/
+
 * {
     box-sizing: border-box;
     padding: 0;
